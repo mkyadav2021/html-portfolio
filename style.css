@@ -1,0 +1,50 @@
+.custom-header {
+  background-color: #f0f2f3; /* light gray or any hex value you like */
+}
+
+
+.nav-link:hover {
+  background-color: #c2f085;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.nav-item {
+  margin-right:auto;
+  margin-top:5px;
+}
+
+.titles{
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+#page-wrapper{
+  font-family: Georgia, 'Times New Roman', Times, serifs;
+  font-size: 20px;
+  text-align: justify;
+}
+
+a{
+  text-decoration: none;
+}
+
+.poems{
+  background-color: #cee8d0;
+  border-radius: 5%;
+  display: inline-block;
+
+}
+
+.url-container {
+  width: 100%;
+ 
+}
+
+.url-text {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  white-space: normal; /* Ensures it wraps normally */
+}
+
